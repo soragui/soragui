@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 大家好 👋
+> 这是我的个人简介，你可以找到一些关于我的个人喜欢、正在做的事情以及想要做的事情。
 <!--
 **soragui/soragui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
