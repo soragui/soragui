@@ -12,6 +12,9 @@
 - 目前正在Java Spring Boot CLoud 之间耕耘...
 - 没事喜欢运动运动，跑步啊、俯卧撑、哑铃什么的，翻墙也会哦，而且技术一流....🤓
 
+
+https://profile-counter.glitch.me/soragui/count.svg
+
 <!--
 **soragui/soragui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
