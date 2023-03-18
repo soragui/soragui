@@ -1,14 +1,10 @@
 ### 大家好 👋
-> 这是我的个人简介，你可以找到一些关于我的个人喜欢、正在做的事情以及想要做的事情。
 
 [![soragui's GitHub stats](https://github-readme-stats.vercel.app/api?username=soragui)](https://github.com/anuraghazra/github-readme-stats)
 
-目前正在：
-  1. 学习 Flutter ,使用 Flutter 技术构建相关移动应用程序
-  2. C 语言开发者，主要进行NAT协议方面的开发工作
-  3. 目前正在积极学习如何销售
 
-个人博客[soragui](https://soragui.com)
+- 🔭 I’m currently working on flutter/react/c programming
+- 🌱 I’m currently learning how to write tech article on medium 
 
 <!--
 **soragui/soragui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
