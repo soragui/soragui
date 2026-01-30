@@ -1,8 +1,5 @@
 ### 大家好 👋
 
-[![soragui's GitHub stats](https://github-readme-stats.vercel.app/api?username=soragui)](https://github.com/anuraghazra/github-readme-stats)
-
-
 - 🔭 I’m currently working on flutter/react/c programming
 - 🌱 I’m currently learning how to write tech article on medium 
 
